@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="click_here">Generate birthday Card</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="android_toys_at_a_birthday_party">android toys at a birthday party</string>
+    <string name="from_vinicius">From, Vinicius</string>
+    <string name="to">To</string>
+    <string name="from">from</string>
+    <string name="nameTo">nameTo</string>
+    <string name="yourName">yourName</string>
+</resources>
